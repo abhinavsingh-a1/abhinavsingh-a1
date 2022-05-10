@@ -102,4 +102,4 @@
   <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a1.abhinavsingh@gmail.com&show_icons=true&hide=stars,issues" alt="a1-abhinavsingh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavsingh-a1&show_icons=true&hide=stars,issues" alt="a1-abhinavsingh" /></p>
