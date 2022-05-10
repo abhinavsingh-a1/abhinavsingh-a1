@@ -11,7 +11,7 @@
 
 🏢 I’m currently working in [SOMAReality](https://www.somareality.com/) as **Sr. Engineer resposible for DevOps and AI**
 
-🌱 I’m currently working on **Setting up Azure infrastructure with cost management, security, policy **
+🌱 I’m currently working on **Setting up Azure infrastructure **
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
 
