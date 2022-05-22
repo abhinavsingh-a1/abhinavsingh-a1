@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-🏢 I’m currently working in [SOMAReality](https://www.somareality.com/) as **Sr. Engineer resposible for DevOps and AI**
+🏢 I’m currently working in Vienna Austria as **SSE resposible for DevOps and AI**
 
 🌱 I’m currently working on **Setting up Azure infrastructure **
 
