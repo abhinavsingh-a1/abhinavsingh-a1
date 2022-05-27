@@ -35,7 +35,7 @@
 
 - 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github](https://github.com/a1-abhinavsingh/capstone-udacity)   
 
-##### 🧾 Certifications I have Accomplished
+/* ##### 🧾 Certifications I have Accomplished
 
 - 🎖 Cloud DevOps NanoDegree - [Udacity](https://graduation.udacity.com/confirm/CJFQAAKGVM)
 
@@ -44,6 +44,7 @@
 - 🎖 Packaging Applications using Helm - Pluralsight and many more...
 
 - 🎖🎖🎖 Complete list of my certifications [here](https://stackoverflow.com/users/story/81772298843)
+*/
 
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  
@@ -56,8 +57,9 @@
   <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  
   <img src="https://user-images.githubusercontent.com/60422234/170690440-52d05e8b-4e98-4c8b-a768-8fa7fb210ba9.png" alt="windows" title="windows" width="40" height="40"/>  
+</p>
 
-#### **Database Stack**
+#### Database Stack
 <p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="cassandra" width="40" height="40"/> 
