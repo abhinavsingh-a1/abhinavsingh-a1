@@ -57,10 +57,12 @@
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  
   <img src="https://user-images.githubusercontent.com/60422234/170690440-52d05e8b-4e98-4c8b-a768-8fa7fb210ba9.png" alt="windows" title="windows" width="40" height="40"/>  
 
-#### Database Stack
+#### **Database Stack**
 <p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="cassandra" width="40" height="40"/> </p>
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="cassandra" width="40" height="40"/> 
+  <img src="https://user-images.githubusercontent.com/60422234/170691094-4865aadc-8d6b-4fbe-a2da-c92bff0f7eb8.png" alt="SQL" title="SQL" width="40" height="40"/>
+</p>
 
 #### DevOps Stack 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> 
