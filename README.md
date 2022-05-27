@@ -34,18 +34,6 @@
 - 📦 Containerizing a ML MicroService and running it over Kubernetes - [Github](https://github.com/a1-abhinavsingh/operationalize-ml-microservice-api)
 
 - 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github](https://github.com/a1-abhinavsingh/capstone-udacity)   
-
-<span hidden>
-##### 🧾 Certifications I have Accomplished
-
-- 🎖 Cloud DevOps NanoDegree - [Udacity](https://graduation.udacity.com/confirm/CJFQAAKGVM)
-
-- 🎖 Various Certification of Docker and Kubernetes - Pluralsight
-
-- 🎖 Packaging Applications using Helm - Pluralsight and many more...
-
-- 🎖🎖🎖 Complete list of my certifications [here](https://stackoverflow.com/users/story/81772298843)
-</span>
   
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  
