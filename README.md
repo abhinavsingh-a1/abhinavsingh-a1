@@ -81,6 +81,8 @@
 
 #### Editor / IDE I ♥
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/60422234/170690790-12066f00-4cf1-42df-99b5-62ee0c9be5c4.png" alt="visual studio" title="visual studio" width="40" height="40"/>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavsingh-a1&show_icons=true&hide=stars,issues" alt="a1-abhinavsingh" /></p>
