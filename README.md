@@ -55,6 +55,7 @@
 <p align="left">
   <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  
+  <img src="https://user-images.githubusercontent.com/60422234/170690440-52d05e8b-4e98-4c8b-a768-8fa7fb210ba9.png" alt="windows" title="windows" width="40" height="40"/>  
 
 #### Database Stack
 <p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  
