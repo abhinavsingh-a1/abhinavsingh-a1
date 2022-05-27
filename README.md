@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh 🌀 from Vienna Austria</h1>
-<h3 align="center">The DevOps + AI Guy who ♥ automating stuff</h3>
+<h3 align="center">The Cloud Architect + DevOps Engineer + AI Guy who ♥ automating stuff</h3>
 
 <p align="center">
 <a href="http://linkedin.com/in/abhinavsingh-ai" target="blank">
@@ -9,9 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-🏢 I’m currently working in Vienna Austria as **SSE resposible for DevOps and AI**
-
-🌱 I’m currently working on **Setting up Azure infrastructure **
+🏢 I’m currently working in Vienna Austria resposible for setting up **Azure Cloud Infrastructure and AI based application**
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
 
