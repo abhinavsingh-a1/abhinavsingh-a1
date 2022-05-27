@@ -35,7 +35,8 @@
 
 - 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github](https://github.com/a1-abhinavsingh/capstone-udacity)   
 
-/* ##### 🧾 Certifications I have Accomplished
+<span hidden>
+##### 🧾 Certifications I have Accomplished
 
 - 🎖 Cloud DevOps NanoDegree - [Udacity](https://graduation.udacity.com/confirm/CJFQAAKGVM)
 
@@ -44,8 +45,8 @@
 - 🎖 Packaging Applications using Helm - Pluralsight and many more...
 
 - 🎖🎖🎖 Complete list of my certifications [here](https://stackoverflow.com/users/story/81772298843)
-*/
-
+</span>
+  
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> 
