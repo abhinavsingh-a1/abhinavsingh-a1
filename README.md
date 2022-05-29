@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh 🌀 from Vienna Austria</h1>
-<h3 align="center">The Cloud Architect + DevOps Engineer + AI Guy who ♥ automating stuff</h3>
+<h3 align="center">The Cloud Solution Expert + Azure DevOps Engineer + AI Guy who ♥ automating stuff</h3>
 
 <p align="center">
 <a href="http://linkedin.com/in/abhinavsingh-ai" target="blank">
