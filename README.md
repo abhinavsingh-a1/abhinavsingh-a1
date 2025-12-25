@@ -9,17 +9,13 @@
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-🏢 I’m currently working in Vienna Austria resposible for setting up **Azure Cloud Infrastructure and AI based application**
-
-💡 Hashtag that describes me **`#DevOpsWizard`**
+💡 Hashtag that describes me **`#SmartContractWizard`**
 
 📝 I regulary write articles on my website (https://phdelite.com/)
 
-💬 Ask me about **DevOps Tools and Practices**
+💬 Ask me about **Smart Contact Practices**
 
 📫 You can reach me at **a1.abhinavsingh@gmail.com**
-
-⚡ Fun fact **automation of cloud keep regions healthy and I love automation** 
   
 #### Programming Language Stack
 <p align="left">
