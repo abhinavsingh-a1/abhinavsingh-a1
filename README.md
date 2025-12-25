@@ -20,24 +20,12 @@
 📫 You can reach me at **a1.abhinavsingh@gmail.com**
 
 ⚡ Fun fact **automation of cloud keep regions healthy and I love automation** 
-
-##### 👨‍💻 Some of the projects I have worked recently
-
-- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/a1-abhinavsingh/terraform-quickstart)
-
-- 📦 Deployment of a static webpage using AWS s3 and CloudFront - [Github](https://github.com/a1-abhinavsingh/s3-cloudFront)
-
-- 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github](https://github.com/a1-abhinavsingh/static)
-
-- 📦 CI of a python application using circleCI - [Github](https://github.com/a1-abhinavsingh/docker-python-app)
-
-- 📦 Containerizing a ML MicroService and running it over Kubernetes - [Github](https://github.com/a1-abhinavsingh/operationalize-ml-microservice-api)
-
-- 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github](https://github.com/a1-abhinavsingh/capstone-udacity)   
   
 #### Programming Language Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>
+<p align="left">
+  <img src="https://getfoundry.sh/og-image.png" alt="python" title="solidity" width="40" height="40"/> 
    <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="python" title="solidity" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/60422234/170688907-a4cf0263-d4e9-447d-9b7a-49e56b4a3f10.svg" alt="C#" title="C#" width="40" height="40"/>  
   </p>
