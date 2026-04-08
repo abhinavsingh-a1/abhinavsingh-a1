@@ -17,12 +17,12 @@
   
 #### Programming Language Stack
 <p align="left">
-     <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="python" title="GoLang" width="40" height="40"/> 
-  <img src="https://getfoundry.sh/og-image.png" alt="foundry" title="foundry" width="40" height="40"/> 
-   <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="python" title="solidity" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> 
-  <img src="https://user-images.githubusercontent.com/60422234/170688907-a4cf0263-d4e9-447d-9b7a-49e56b4a3f10.svg" alt="C#" title="C#" width="40" height="40"/>  
+  <table><tr>
+    <td><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="python" title="GoLang" width="40" height="40"/><br>GoLang</td>
+    <td>  <img src="https://getfoundry.sh/og-image.png" alt="foundry" title="foundry" width="40" height="40"/><br>foundry</td>
+    <td>  <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="python" title="solidity" width="40" height="40"/><br>solidity </td>
+    <td>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/><br>python </td>
+  </tr></table>
   </p>
 
 #### Containerization
