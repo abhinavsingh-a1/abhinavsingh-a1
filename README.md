@@ -12,12 +12,7 @@
 💡 Hashtag that describes me **`#CloudExpert`**,**`#SmartContractWizard`**,**`#ContainerizationWarloack`**
 
 📫 You can reach me at **a1.abhinavsingh@gmail.com**
-  <table><tr>
-    <td><br></td>
-        <td><br></td>
-    <td><br></td>
-  </tr>
-  </table>
+
 #### Cloud Provider 
 <table><tr>
     <td><p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> <br>aws</td>
